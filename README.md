@@ -6,10 +6,11 @@
 Before Start application you must setup like this.
 
 Downloading the Required Files
-•	Download Server JRE
-•	Download and install 7-zip 
-•	Download and extract ZooKeeper using 7-zip
-•	Download and extract Kafka using 7-zip
+• Download Server JRE
+• Download and install 7-zip 
+• Download and extract ZooKeeper using 7-zip
+• Download and extract Kafka using 7-zip
+
 Do All Extract to C:\Tools
 
 ## Installation
