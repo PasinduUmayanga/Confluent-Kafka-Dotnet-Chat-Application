@@ -1,5 +1,8 @@
 # Confluent-Kafka-Dotnet-Chat-Application
 
+
+![logo](https://user-images.githubusercontent.com/21302583/61532098-75a9b680-aa46-11e9-8ffb-80e42c87c4ca.png)
+
 Before Start application you must setup like this.
 
 Downloading the Required Files
