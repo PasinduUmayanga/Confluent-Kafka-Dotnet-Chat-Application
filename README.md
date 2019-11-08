@@ -3,6 +3,11 @@
 
 ![logo](https://user-images.githubusercontent.com/21302583/61532098-75a9b680-aa46-11e9-8ffb-80e42c87c4ca.png)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/e77alnp1cqkyagu8?svg=true)](https://ci.appveyor.com/project/Mahadenamuththa/confluent-kafka-dotnet-chat-application)
+
+[![Build history](https://buildstats.info/appveyor/chart/Mahadenamuththa/confluent-kafka-dotnet-chat-application)](https://ci.appveyor.com/project/Mahadenamuththa/confluent-kafka-dotnet-chat-application/history)
+
+
 Before Start application you must setup like this.
 
 Downloading the Required Files
